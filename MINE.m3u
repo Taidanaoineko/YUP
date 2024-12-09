@@ -812,3 +812,5 @@ https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
 https://ns1.elahmad.com/tv713_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=18fac4196348da0cc20b7f5c56a51569de18d69d-cfb635380cafbd6eabdc7e24086b322e-1733739131-1733728331
 #EXTINF:-1 tvg-id="jeem.ae" tvg-logo="3" group-title="General",jeem
 https://ns1.elahmad.com/tv713_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=51b10c2d365191db97b39114122f0e5d55e44a02-8576068b3b5f8e7cc32d5312d12f423b-1733739256-1733728456
+#EXTINF:-1 tvg-id="quran.ae" tvg-logo="3" group-title="General",quran
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
