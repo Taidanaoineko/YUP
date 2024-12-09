@@ -808,3 +808,7 @@ https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/mono.m3u8
 http://156.228.250.23/play/u5sHCFxTJB82tI6wDX89_4AAuuytdZue2BfrSOW8cgEWTOrn-6We5ZmlEU0uH4Rc4sqvyt6BGhrq4eXKyxVcZA/.m3u8
 #EXTINF:-1 tvg-id="MBCACC.ae" tvg-logo="3" group-title="General",MBC AC
 https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mara3m.ae" tvg-logo="3" group-title="General",Bra3m
+https://ns1.elahmad.com/tv713_www.elahmad.com_baraem/tracks-v1a1/mono.m3u8?token=18fac4196348da0cc20b7f5c56a51569de18d69d-cfb635380cafbd6eabdc7e24086b322e-1733739131-1733728331
+#EXTINF:-1 tvg-id="jeem.ae" tvg-logo="3" group-title="General",jeem
+https://ns1.elahmad.com/tv713_www.elahmad.com_jeem/tracks-v1a1/mono.m3u8?token=51b10c2d365191db97b39114122f0e5d55e44a02-8576068b3b5f8e7cc32d5312d12f423b-1733739256-1733728456
